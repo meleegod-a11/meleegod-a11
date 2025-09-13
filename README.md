@@ -14,4 +14,5 @@
 - [LinkedIn](https://www.linkedin.com/in/jonny-marcus-3a02512ab/?trk=opento_sprofile_topcard)
 - [E-mail](jonnymarcusmilitao123@gmail.com)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonny-marcus&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=meleegod-a11
+&show_icons=true&theme=dracula)
