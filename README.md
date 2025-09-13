@@ -14,9 +14,10 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=meleegod-a11&show_icons=true&theme=dracula)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=meleegod-a11&layout=compact&theme=dracula)
+
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/jonny-marcus-3a02512ab/?trk=opento_sprofile_topcard)
-- [E-mail](jonnymarcusmilitao123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonny-marcus-3a02512ab/?trk=opento_sprofile_topcard)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=meleegod-a11
 &show_icons=true&theme=dracula)
