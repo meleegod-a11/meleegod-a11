@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Jonny 👋
 
-<!--
-**meleegod-a11/meleegod-a11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciencias da Computadores  
+💻 Explorando C, desing de jogos, e progrmação
+🎮 Criando sprites em pixel art e 3D pelo Blender
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+- C/C#
+- phyton
+- Git & GitHub
+- Pixel Art e Design de Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/jonny-marcus-3a02512ab/?trk=opento_sprofile_topcard)
+- [E-mail](jonnymarcusmilitao123@gmail.com)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonny-marcus&show_icons=true&theme=dracula)
