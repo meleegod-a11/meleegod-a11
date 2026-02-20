@@ -1,6 +1,6 @@
 # Olá, eu sou o Jonny 👋
 
-🎓 Estudante de Ciencias da Computadores  
+🎓 Estudante de Ciencias da Computação  
 💻 Explorando C, desing de jogos, e progrmação
 🎮 Criando sprites em pixel art e 3D pelo Blender
 
