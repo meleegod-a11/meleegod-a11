@@ -50,12 +50,12 @@
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </div>
