@@ -1,19 +1,25 @@
-```md
+
 <h1 align="center">
   🚀 Jonny Marcus
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Fullstack;Entusiasta+de+Game+Dev;Sempre+aprendendo+coisas+novas" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Fullstack;Entusiasta+de+Game+Dev;Sempre+aprendendo+coisas+novas" 
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonny-marcus-3a02512ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
 
   <a href="https://www.instagram.com/jonny_marcus.s/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
   </a>
 </p>
 
@@ -23,7 +29,7 @@
 
 💻 Estudante de Ciência da Computação apaixonado por tecnologia  
 🚀 Focado em construir projetos reais  
-🎮 Experiência com desenvolvimento de jogos (Dev-U)  
+🎮 Entusiasta de desenvolvimento de jogos  
 📚 Sempre aprendendo sobre sistemas, programação e desempenho  
 
 ---
@@ -32,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,unity,blender,js,html,css,tailwind,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,c,unity,blender,js,html,css,tailwind,react,nodejs,git,github,vscode" />
 
 </div>
 
@@ -42,9 +48,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -54,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JonnyMarcus&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=JonnyMarcus&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -74,9 +80,10 @@
 
 ✨ Em construção (os brabos estão vindo...)
 
-- 🎮 Projetos de Jogos (Dev-U)
+- 🎮 Projetos de Jogos
 - ⚙️ Sistemas e Automação
 - 🌐 Aplicações Fullstack
+- 🧠 Estudos sobre Estruturas de Dados e Performance
 
 ---
 
@@ -84,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
