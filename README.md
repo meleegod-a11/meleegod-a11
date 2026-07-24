@@ -16,6 +16,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=JonnyMarcus&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00F7FF&style=flat" alt="Profile views" />
+
 </div>
 
 ## 🧠 Sobre mim
@@ -27,6 +29,8 @@ Estudante de **Ciência da Computação na UNIFEI**, com trajetória construída
 - 🎮 Entusiasta de game dev e sistemas de baixo nível — gosto de entender o que acontece "por baixo do capô"
 - 📚 Construo um projeto prático para (quase) toda disciplina que curso — de compressão de arquivos a simuladores de arquitetura de computadores
 - 🌱 Aprendendo constantemente sobre performance, estruturas de dados e sistemas distribuídos
+
+> 💭 De artes visuais para engenharia de software: gosto de pensar que a mesma atenção a detalhe que eu aplicava desenhando sprite a sprite hoje eu aplico linha a linha de código.
 
 ## ⚡ Tecnologias
 
@@ -60,6 +64,35 @@ Estudante de **Ciência da Computação na UNIFEI**, com trajetória construída
 | **[EpidemicLab](https://github.com/JonnyMarcus/epidemic-lab)** | Simulador interativo de epidemias baseado no modelo SIR | Python · Streamlit · NumPy/SciPy |
 | **[Discrete Math Toolkit](https://github.com/JonnyMarcus/discrete-math-toolkit)** | Conjuntos, relações, lógica proposicional e grafos (DFS/BFS) num toolkit modular | C |
 
+<details>
+<summary><b>📚 Mais projetos acadêmicos — por área (clique para expandir)</b></summary>
+<br>
+
+**🖥️ Arquitetura de Computadores**
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Simulador de Conversão Numérica e Memória](https://github.com/JonnyMarcus/simulador-numerico-memoria) | Conversão entre bases, aritmética binária e simulação de endereçamento | C |
+| [Calculadora Binária em Assembly x86](https://github.com/JonnyMarcus/calculadora-binaria-assembly) | Operações aritméticas implementadas diretamente em Assembly, com registradores e fluxo de controle | Assembly x86 · NASM |
+
+**📐 Matemática Computacional**
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Analisador de Funções em C](https://github.com/JonnyMarcus/analisador-funcoes) | Derivadas, raízes, vértice e plotagem gráfica de funções | C · gnuplot |
+| [Visualizador de Curvas e Superfícies (Cálculo B)](https://github.com/JonnyMarcus/visualizador-calculo-b) | Curvas paramétricas, superfícies 3D, gradiente e curvas de nível | Python · NumPy · SymPy · Matplotlib |
+| [Sistema de Análise de Investimentos](https://github.com/JonnyMarcus/analise-investimentos) | Payback, VPL e TIR aplicados à Engenharia Econômica | C |
+
+**🐍 Orientação a Objetos & Fundamentos**
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Sistema de Streaming Musical](https://github.com/JonnyMarcus/sistema-streaming-poo) | Simulação de plataforma de streaming com herança, polimorfismo e composição | Python |
+| [Sistema de Cadastro de Alunos](https://github.com/JonnyMarcus/sistema-cadastro-alunos) | CRUD completo em C puro no terminal, com persistência em arquivo | C |
+| [Trabalho de Engenharia de Software](https://github.com/JonnyMarcus/Trabalho_Engenharia_de_Software) | Levantamento de requisitos, modelagem UML e desenvolvimento estruturado de um sistema completo | C · UML |
+
+</details>
+
 > ✨ Mais projetos em construção — de automação de processos a sistemas fullstack.
 
 ## 📊 Estatísticas
@@ -70,11 +103,19 @@ Estudante de **Ciência da Computação na UNIFEI**, com trajetória construída
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JonnyMarcus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=tokyo-night&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 📫 Vamos conversar
