@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer;Computer+Science+Student+%40+UNIFEI;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
 
 <a href="https://github.com/JonnyMarcus">
-  <img src="https://img.shields.io/badge/GitHub-JonnyMarcus-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-JonnyMarcus-39FF14?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-39FF14?style=for-the-badge" alt="Open to opportunities" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-39FF14?style=for-the-badge&logoColor=black" alt="Open to opportunities" />
 <img src="https://komarev.com/ghpvc/?username=JonnyMarcus&style=for-the-badge&color=39FF14&label=Profile+Views" alt="Profile views" />
 
 </div>
@@ -51,15 +51,15 @@ I'm a Computer Science student at **UNIFEI** (Universidade Federal de Itajubá) 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyMarcus&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyMarcus&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=ffffff&sideNums=ffffff&dates=39FF14" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&title=Commits,Repositories,Stars,Followers" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14" alt="Contribution Graph" />
 </p>
 
 ---
@@ -78,24 +78,24 @@ I'm a Computer Science student at **UNIFEI** (Universidade Federal de Itajubá) 
 ## 🛠️ Skills & Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-39FF14?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-39FF14?logo=typescript&logoColor=black&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-39FF14?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-39FF14?logo=nextdotjs&logoColor=black&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-39FF14?logo=tailwindcss&logoColor=black&style=for-the-badge" alt="Tailwind CSS" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-39FF14?logo=nodedotjs&logoColor=black&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-39FF14?logo=python&logoColor=black&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/C-39FF14?logo=c&logoColor=black&style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-39FF14?logo=html5&logoColor=black&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-39FF14?logo=css3&logoColor=black&style=for-the-badge" alt="CSS3" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Git-39FF14?logo=git&logoColor=black&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-39FF14?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-39FF14?logo=figma&logoColor=black&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-39FF14?logo=shadcnui&logoColor=black&style=for-the-badge" alt="shadcn/ui" />
 </p>
 
 <p align="center">
@@ -106,18 +106,8 @@ I'm a Computer Science student at **UNIFEI** (Universidade Federal de Itajubá) 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&langs_count=8" alt="Top Languages" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
-</p>
-
-> Gerado automaticamente pela GitHub Action [`snk`](https://github.com/Platane/snk) — adicione o workflow ao seu repositório de perfil (`JonnyMarcus/JonnyMarcus`) para essa animação atualizar sozinha a cada contribuição.
 
 ---
 
@@ -132,6 +122,6 @@ I'm a Computer Science student at **UNIFEI** (Universidade Federal de Itajubá) 
 
 <div align="center">
 
-⭐️ *If any of my projects helped you, consider giving it a star!*
+⭐️ If any of my projects helped you, consider giving it a star!
 
 </div>
