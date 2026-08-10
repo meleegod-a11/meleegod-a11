@@ -16,15 +16,7 @@
 
 <br/>
 
-<div align="center">
-
 ## 🧬 About Me
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
 
 I'm a **Computer Science student at UNIFEI** (Universidade Federal de Itajubá) and a **trainee in the People and Results Development area at Byron Solutions**, the university's junior enterprise.
 
@@ -41,67 +33,52 @@ const jonny = {
 };
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon" alt="JonnyMarcus hero section" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon" alt="JonnyMarcus hero section" width="80%"/>
+</p>
 
 <br/>
 
+## 🐍 Contribution Snake
+
 <div align="center">
+<img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+Essa animação é gerada por uma GitHub Action (`Platane/snk`) que roda direto no seu repositório de perfil e "come" as contribuições reais do seu heatmap, virando uma cobrinha animada — atualiza sozinha a cada novo commit.
+
+<br/>
 
 ## 🔥 Streak & Consistency
 
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyMarcus&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=ffffff&sideNums=ffffff&dates=39FF14" alt="GitHub Streak" />
-
 </div>
 
 <br/>
-
-<div align="center">
-
-## 🗓️ Contribution Heatmap
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14" alt="Contribution Heatmap" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JonnyMarcus&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=ffffff&ring_color=39FF14" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff&langs_count=8" alt="Top Languages" height="165"/>
+</div>
 
-<br/>
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=1&title=Commits,Repositories,Stars,Followers" alt="GitHub Trophies" />
-
 </div>
 
 <br/>
-
-<div align="center">
 
 ## 🚀 Projects
 
+<div align="center">
 <img src="https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=neon" alt="JonnyMarcus projects section" width="100%"/>
-
 </div>
 
 <br/>
 
-<div align="center">
-
 ## 🛠️ Skills & Highlights
-
-</div>
 
 <div align="center">
 
@@ -151,15 +128,14 @@ const jonny = {
 
 <br/>
 
-<div align="center">
-
 ## 🤝 Let's Connect
 
+<div align="center">
 <img src="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon" alt="JonnyMarcus social section" width="100%"/>
 
 <br/><br/>
 
-⭐️ *If any of my projects helped you, consider giving it a star!*
+⭐️ If any of my projects helped you, consider giving it a star!
 
 </div>
 
