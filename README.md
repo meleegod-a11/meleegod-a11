@@ -1,129 +1,69 @@
-<div align="center">
+# Hi, I'm Jonny Marcus 👋
 
-# Olá, eu sou o Jonny 👋
+> Computer Science student & Full-Stack Engineer — turning ideas into shipped products.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Fullstack+em+forma%C3%A7%C3%A3o;Entusiasta+de+Game+Dev+%26+Automa%C3%A7%C3%A3o;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
-
-<p>
-  <a href="https://www.linkedin.com/in/jonny-marcus-3a02512ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
   <a href="https://github.com/JonnyMarcus">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-JonnyMarcus-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/jonny_marcus.s/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-39FF14" alt="Open to opportunities" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=JonnyMarcus&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=00F7FF&style=flat" alt="Profile views" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon" alt="JonnyMarcus hero section" />
+  </picture>
+</p>
 
-</div>
+## About Me
 
-## 🧠 Sobre mim
+I'm a Computer Science student at UNIFEI (Universidade Federal de Itajubá) and a trainee in the People and Results Development area at Byron Solutions, the university's junior enterprise. I come from a background in visual arts (Aseprite, Blender, Unity), which shapes how I approach UI and product design as a developer. I'm currently focused on full-stack web development — building with React, Next.js, and TypeScript.
 
-Estudante de **Ciência da Computação na UNIFEI**, com trajetória construída em cima de projetos reais em vez de só teoria — cada disciplina que curso vira, além do estudo, uma implementação prática que sai do papel.
+## GitHub Activity
 
-- 🎓 Graduando em Ciência da Computação, com passagem por artes visuais (Aseprite, Blender, Unity) antes de migrar para desenvolvimento
-- 🧩 Trainee na área de Desenvolvimento de Pessoas e Resultados na **Byron Solutions**, a júnior empresa da UNIFEI
-- 🎮 Entusiasta de game dev e sistemas de baixo nível — gosto de entender o que acontece "por baixo do capô"
-- 📚 Construo um projeto prático para (quase) toda disciplina que curso — de compressão de arquivos a simuladores de arquitetura de computadores
-- 🌱 Aprendendo constantemente sobre performance, estruturas de dados e sistemas distribuídos
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=JonnyMarcus&theme=neon" alt="JonnyMarcus stats section" />
+  </picture>
+</p>
 
-> 💭 De artes visuais para engenharia de software: gosto de pensar que a mesma atenção a detalhe que eu aplicava desenhando sprite a sprite hoje eu aplico linha a linha de código.
+## Projects
 
-## ⚡ Tecnologias
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=neon" alt="JonnyMarcus projects section" />
+  </picture>
+</p>
 
-<div align="center">
+## Skills & Stack
 
-**Linguagens**
-<br>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,js,ts" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-**Web & Fullstack**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=JonnyMarcus&theme=neon" alt="JonnyMarcus stack section" />
+  </picture>
+</p>
 
-**Game Dev & Design**
-<br>
-<img src="https://skillicons.dev/icons?i=unity,blender,figma" />
+## Let's Connect
 
-**Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[VisionAid](https://github.com/JonnyMarcus/visionaid)** | Assistente de visão para deficientes visuais rodando 100% em edge (Raspberry Pi) | Python · YOLOv8 · Ollama/VLM |
-| **[HuffC](https://github.com/JonnyMarcus/huffc)** | Compressor de arquivos sem perdas com Árvore de Huffman, do zero | C |
-| **[NetVision](https://github.com/JonnyMarcus/netvision)** | Plataforma de monitoramento de redes em tempo real, inspirada em Zabbix/Grafana | Python · FastAPI · Docker · WebSockets |
-| **[EpidemicLab](https://github.com/JonnyMarcus/epidemic-lab)** | Simulador interativo de epidemias baseado no modelo SIR | Python · Streamlit · NumPy/SciPy |
-| **[Discrete Math Toolkit](https://github.com/JonnyMarcus/discrete-math-toolkit)** | Conjuntos, relações, lógica proposicional e grafos (DFS/BFS) num toolkit modular | C |
-
-<details>
-<summary><b>📚 Mais projetos acadêmicos — por área (clique para expandir)</b></summary>
-<br>
-
-**🖥️ Arquitetura de Computadores**
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Simulador de Conversão Numérica e Memória](https://github.com/JonnyMarcus/simulador-numerico-memoria) | Conversão entre bases, aritmética binária e simulação de endereçamento | C |
-| [Calculadora Binária em Assembly x86](https://github.com/JonnyMarcus/calculadora-binaria-assembly) | Operações aritméticas implementadas diretamente em Assembly, com registradores e fluxo de controle | Assembly x86 · NASM |
-
-**📐 Matemática Computacional**
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Analisador de Funções em C](https://github.com/JonnyMarcus/analisador-funcoes) | Derivadas, raízes, vértice e plotagem gráfica de funções | C · gnuplot |
-| [Visualizador de Curvas e Superfícies (Cálculo B)](https://github.com/JonnyMarcus/visualizador-calculo-b) | Curvas paramétricas, superfícies 3D, gradiente e curvas de nível | Python · NumPy · SymPy · Matplotlib |
-| [Sistema de Análise de Investimentos](https://github.com/JonnyMarcus/analise-investimentos) | Payback, VPL e TIR aplicados à Engenharia Econômica | C |
-
-**🐍 Orientação a Objetos & Fundamentos**
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Sistema de Streaming Musical](https://github.com/JonnyMarcus/sistema-streaming-poo) | Simulação de plataforma de streaming com herança, polimorfismo e composição | Python |
-| [Sistema de Cadastro de Alunos](https://github.com/JonnyMarcus/sistema-cadastro-alunos) | CRUD completo em C puro no terminal, com persistência em arquivo | C |
-| [Trabalho de Engenharia de Software](https://github.com/JonnyMarcus/Trabalho_Engenharia_de_Software) | Levantamento de requisitos, modelagem UML e desenvolvimento estruturado de um sistema completo | C · UML |
-
-</details>
-
-> ✨ Mais projetos em construção — de automação de processos a sistemas fullstack.
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonnyMarcus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JonnyMarcus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=tokyo-night&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 📫 Vamos conversar
-
-Sempre aberto a trocar ideia sobre projetos, automação, game dev ou oportunidades — me chama no [LinkedIn](https://www.linkedin.com/in/jonny-marcus-3a02512ab/).
-
-<div align="center">
-
-*"Consistência vence talento."*
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon" alt="JonnyMarcus social section" />
+  </picture>
+</p>
