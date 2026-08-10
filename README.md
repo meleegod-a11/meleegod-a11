@@ -1,54 +1,103 @@
-# JonnyMarcus
+<div align="center">
 
-> Recruiter-friendly proof and contact path.
+# Hi, I'm Jonny Marcus 👋
 
-**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer;Computer+Science+Student+%40+UNIFEI;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
 
-## Header
-Hi, I'm **JonnyMarcus**. This README is tuned for **get hired** with a Neon visual system.
+<a href="https://github.com/JonnyMarcus">
+  <img src="https://img.shields.io/badge/GitHub-JonnyMarcus-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-39FF14?style=for-the-badge" alt="Open to opportunities" />
+<img src="https://komarev.com/ghpvc/?username=JonnyMarcus&style=for-the-badge&color=39FF14&label=Profile+Views" alt="Profile views" />
+
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=JonnyMarcus&theme=neon" alt="JonnyMarcus hero section" />
   </picture>
 </p>
-## Heatmap
-Animated year-long contribution calendar.
-## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student at **UNIFEI** (Universidade Federal de Itajubá) and a trainee in the **People and Results Development** area at **Byron Solutions**, the university's junior enterprise. I come from a background in visual arts (Aseprite, Blender, Unity), which shapes how I approach UI and product design as a developer. I'm currently focused on full-stack web development — building with React, Next.js, and TypeScript, and learning back-end development and API integration.
+
+<table align="center">
+<tr>
+<td>
+
+🎓 &nbsp;**Education** — Computer Science @ UNIFEI
+🏢 &nbsp;**Trainee** — DPR, Byron Solutions (Junior Enterprise)
+🎨 &nbsp;**Background** — Visual arts (Aseprite, Blender, Unity)
+🔭 &nbsp;**Currently learning** — Next.js, back-end & API integration
+💬 &nbsp;**Ask me about** — React, Next.js, Tailwind CSS, UI/UX
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JonnyMarcus&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/stats?username=JonnyMarcus&theme=neon" alt="JonnyMarcus stats section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnyMarcus&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnyMarcus&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonnyMarcus&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🚀 Projects
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=neon&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=JonnyMarcus&theme=neon" alt="JonnyMarcus projects section" />
   </picture>
 </p>
-## Connect
-> Editing this section in the inspector.
-Contact and social links will appear here.
+
+---
+
+## 🛠️ Skills & Stack
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon" alt="JonnyMarcus social section" />
-  </picture>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
 </p>
-## About Me
-Shapes the short profile story and positioning.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=JonnyMarcus&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=JonnyMarcus&theme=neon" alt="JonnyMarcus about section" />
-  </picture>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
 </p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcn/ui" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=JonnyMarcus&theme=neon&mode=light" />
@@ -56,4 +105,33 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 
-<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect, About Me, Skills -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMarcus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=ffffff" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JonnyMarcus/JonnyMarcus/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+</p>
+
+> Gerado automaticamente pela GitHub Action [`snk`](https://github.com/Platane/snk) — adicione o workflow ao seu repositório de perfil (`JonnyMarcus/JonnyMarcus`) para essa animação atualizar sozinha a cada contribuição.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=JonnyMarcus&theme=neon" alt="JonnyMarcus social section" />
+  </picture>
+</p>
+
+<div align="center">
+
+⭐️ *If any of my projects helped you, consider giving it a star!*
+
+</div>
